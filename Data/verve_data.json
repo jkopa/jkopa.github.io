@@ -1,7 +1,14 @@
 [
-    "title": "verve",
-    "news": {
-        "title": "Grand opening",
-        "body": "Welcome to verve, a brand new coffee shop here on campus"
-    }
+  {
+      "title": "Grand opening",
+      "body": "Welcome to verve, a brand new coffee shop here on campus",
+      "image": "http://jkopa.github.io/Data/assets/",
+      "semanticLabel": "image of"
+  },
+  {
+      "title": "New Deals",
+      "body": "Check out our new deals",
+      "image": "http://jkopa.github.io/Data/assets/",
+      "semanticLabel": "image of"
+  }
 ]
