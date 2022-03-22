@@ -1,14 +1,15 @@
 [
   {
-      "title": "Grand opening",
-      "body": "Welcome to verve, a brand new coffee shop here on campus",
-      "image": "http://jkopa.github.io/Data/assets/",
-      "semanticLabel": "image of"
+      "title": "Rest and Reset Lounge",
+      "body": "Come and join the Officer Team and the Wellbeing Society in Verve for a free hot drink and a chat! This event takes place on Thu 24th of March 6pm - 8pm",
+      "image": "http://jkopa.github.io/Data/images/1.png",
+      "semanticLabel": "image of rest and reset lounge",
+      "type": "event"
   },
   {
       "title": "New Deals",
       "body": "Check out our new deals",
-      "image": "http://jkopa.github.io/Data/assets/",
+      "image": "http://jkopa.github.io/Data/images/1.png",
       "semanticLabel": "image of"
   }
 ]
