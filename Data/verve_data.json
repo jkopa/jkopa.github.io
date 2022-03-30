@@ -3,6 +3,7 @@
       "title": "Bring your own cup - Double Discounts",
       "body": "We're celebrating Green Week at Squeezebox and Squeeze at Verve by offering a massive Double Discount on hot drinks when you bring your own cup! available Mon 21st Mar - Sun 27th Mar 2022",
       "image": "http://jkopa.github.io/Data/images/2.png",
+      "link": "https://www.staffsunion.com/ents/event/18621/",
       "semanticLabel": "image of squeeze box cup",
       "type": "menu"
   },
@@ -17,6 +18,7 @@
       "title": "Supernatural Sunday",
       "body": "Run by Melantha ~ Supernatural Sundays is where you can learn about all things paranormal, whether thats just regular spirits to even the darkest of demons.",
       "image": "http://jkopa.github.io/Data/images/3.jpeg",
+      "link": "https://www.staffsunion.com/ents/event/18571/",
       "semanticLabel": "image of coven event logo",
       "type": "event"
   },
@@ -24,7 +26,8 @@
       "title": "Green Week Crafternoon",
       "body": "Join us for an afternoon in Squeezebox at Verve for a Green Week Crafternoon. Bring your creative skills to life and help us to make decorations for LRV or even something to take home. We'll be recycling, repurposing and re-using all sorts of crafting items and materials. Grab a drink, get a bite to eat and get crafting. Even on Fri 25th of March",
       "image": "http://jkopa.github.io/Data/images/4.png",
+      "link": "https://www.staffsunion.com/ents/event/18606/",
       "semanticLabel": "image of crafternoon",
       "type": "event"
   } 
-]
+] 
