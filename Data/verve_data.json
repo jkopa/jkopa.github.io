@@ -19,5 +19,12 @@
       "image": "http://jkopa.github.io/Data/images/3.jpeg",
       "semanticLabel": "image of coven event logo",
       "type": "event"
-  }
+  },
+  {
+      "title": "Green Week Crafternoon",
+      "body": "Join us for an afternoon in Squeezebox at Verve for a Green Week Crafternoon. Bring your creative skills to life and help us to make decorations for LRV or even something to take home. We'll be recycling, repurposing and re-using all sorts of crafting items and materials. Grab a drink, get a bite to eat and get crafting. Even on Fri 25th of March",
+      "image": "http://jkopa.github.io/Data/images/4.png",
+      "semanticLabel": "image of crafternoon",
+      "type": "event"
+  } 
 ]
